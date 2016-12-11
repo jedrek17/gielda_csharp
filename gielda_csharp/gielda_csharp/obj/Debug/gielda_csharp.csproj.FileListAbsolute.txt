@@ -1,9 +1,0 @@
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\bin\Debug\gielda_csharp.exe.config
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\obj\Debug\gielda_csharp.csprojResolveAssemblyReference.cache
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\obj\Debug\gielda_csharp.Form1.resources
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\obj\Debug\gielda_csharp.Properties.Resources.resources
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\obj\Debug\gielda_csharp.csproj.GenerateResource.Cache
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\bin\Debug\gielda_csharp.exe
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\bin\Debug\gielda_csharp.pdb
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\obj\Debug\gielda_csharp.exe
-F:\programowanie\GitHubRepo\gielda_csharp\gielda_csharp\gielda_csharp\obj\Debug\gielda_csharp.pdb

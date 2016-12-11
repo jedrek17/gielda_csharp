@@ -1,0 +1,11 @@
+F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\gielda_projekt.exe.config
+F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.csprojResolveAssemblyReference.cache
+F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.Form1.resources
+F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.Properties.Resources.resources
+F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.csproj.GenerateResource.Cache
+F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\gielda_projekt.exe
+F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\gielda_projekt.pdb
+F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\NeuronDotNet.Core.dll
+F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\NeuronDotNet.Core.pdb
+F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.exe
+F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.pdb

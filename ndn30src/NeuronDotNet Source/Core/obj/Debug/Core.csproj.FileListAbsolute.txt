@@ -1,0 +1,4 @@
+F:\programowanie\gielda_projekt\ndn30src\NeuronDotNet Source\Core\bin\Debug\NeuronDotNet.Core.dll
+F:\programowanie\gielda_projekt\ndn30src\NeuronDotNet Source\Core\bin\Debug\NeuronDotNet.Core.pdb
+F:\programowanie\gielda_projekt\ndn30src\NeuronDotNet Source\Core\obj\Debug\NeuronDotNet.Core.dll
+F:\programowanie\gielda_projekt\ndn30src\NeuronDotNet Source\Core\obj\Debug\NeuronDotNet.Core.pdb
