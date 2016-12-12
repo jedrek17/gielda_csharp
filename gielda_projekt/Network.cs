@@ -11,6 +11,7 @@ using System.Globalization;
 
 namespace gielda_projekt
 {
+    [Serializable]
     class Network
     {
         int inputNeurons = 11;
@@ -45,7 +46,10 @@ namespace gielda_projekt
             //startTraining(filePath);
 
         }
-
+        public void saveNet2File(string file)
+        {
+            
+        }
         private ActivationLayer createLayer(int layer, int neurons)
         {
             switch (layer)

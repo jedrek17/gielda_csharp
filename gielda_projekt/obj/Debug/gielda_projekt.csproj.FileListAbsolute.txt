@@ -9,3 +9,14 @@ F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\NeuronDotNet.Core.dll
 F:\programowanie\gielda_projekt\gielda_projekt\bin\Debug\NeuronDotNet.Core.pdb
 F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.exe
 F:\programowanie\gielda_projekt\gielda_projekt\obj\Debug\gielda_projekt.pdb
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\bin\Debug\gielda_projekt.exe.config
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\obj\Debug\gielda_projekt.exe
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\obj\Debug\gielda_projekt.pdb
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\bin\Debug\gielda_projekt.exe
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\bin\Debug\gielda_projekt.pdb
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\bin\Debug\NeuronDotNet.Core.dll
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\bin\Debug\NeuronDotNet.Core.pdb
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\obj\Debug\gielda_projekt.csprojResolveAssemblyReference.cache
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\obj\Debug\gielda_projekt.Form1.resources
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\obj\Debug\gielda_projekt.Properties.Resources.resources
+F:\programowanie\GitHubRepo\gielda_csharp\gielda_projekt\obj\Debug\gielda_projekt.csproj.GenerateResource.Cache
