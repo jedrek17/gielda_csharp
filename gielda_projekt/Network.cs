@@ -346,10 +346,10 @@ namespace gielda_projekt
                     }
                     using (StreamWriter sw = new StreamWriter("testResult.tmp"))
                     {
-                        sw.WriteLine("Result, Expected result, error");
+                        sw.WriteLine("Result; Expected result; error");
                         for (int i = 0; i < result.Length; i++)
                         {
-                            sw.WriteLine(result[i] + ", " + expResult[i] + ", " + Math.Abs((result[i] - expResult[i])));
+                            sw.WriteLine(result[i] + "; " + expResult[i] + "; " +(result[i] - expResult[i]));
                         }
                     }
                 }
